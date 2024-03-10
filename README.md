@@ -8,4 +8,6 @@ Now run "ollama run codellama" in command prompt
 Fun Activity to check if it is working--"provide me python code for factorial--for fun"
 
 Now run "ollama create codeguru -f modelfile" to activate code llama
+
+
 reference--[https://ai.meta.com/blog/code-llama-large-language-model-coding/]
